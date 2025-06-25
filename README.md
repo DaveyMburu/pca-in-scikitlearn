@@ -12,6 +12,8 @@ In this lab you will:
 - Determine the optimal number of n components when performing PCA by observing the explained variance 
 - Plot the decision boundary of classification experiments to visually inspect their performance 
 
+# Check the index.ipynb file for my working
+
 ## Iris dataset
 
 To practice PCA, you'll take a look at the iris dataset. Run the cell below to load it. 
